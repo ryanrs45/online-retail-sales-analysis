@@ -1,0 +1,7 @@
+,Count
+Original rows,541909
+Exact duplicates removed,5268
+Excluded invalid/nonpositive-price rows,2512
+Return/cancellation rows,9251
+Positive sales rows,524878
+Sales rows missing CustomerID,132186
